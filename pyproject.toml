@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "web-python17m2"
+version = "0.1.0"
+description = ""
+authors = ["hedgyv <hedgy85@hotmail.com>"]
+license = "Yaroslav.Vdovenko"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.0"
+prompt-toolkit = "^3.0.39"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
